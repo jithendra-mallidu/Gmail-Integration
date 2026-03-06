@@ -1,18 +1,12 @@
-# Requirements for Gmail Integration Project
+# Python Dependencies for Gmail Integration
 
 # Gmail API
-google-auth
-google-auth-oauthlib
 google-api-python-client
-
-# AI Analysis
-numpy
-pandas
-scikit-learn
-
-# WhatsApp Integration
-whatsapp-web
 
 # Data Visualization
 matplotlib
 seaborn
+plotly
+
+# WhatsApp Integration
+whatsapp-web.js
