@@ -1,0 +1,18 @@
+# Requirements for Gmail Integration Project
+
+# Gmail API
+google-auth
+google-auth-oauthlib
+google-api-python-client
+
+# AI Analysis
+numpy
+pandas
+scikit-learn
+
+# WhatsApp Integration
+whatsapp-web
+
+# Data Visualization
+matplotlib
+seaborn
